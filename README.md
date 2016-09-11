@@ -1,27 +1,24 @@
-# vue-mui-demo
+先安装vue-cli 脚手架
 
-> chenYongzhu
 
-## Build Setup
+# 安装vue-cli
+npm install -g vue-cli
 
-``` bash
-# install dependencies
+# 使用vue-cli初始化项目
+vue init webpack my-project
+
+# 进入到目录
+cd my-project
+
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 开始运行
 npm run dev
 
-# build for production with minification
-npm run build
 
-# run unit tests
-npm run unit
+然后把里面的文件都替换 
+运行
+npm run dev
 
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+就行了不懂的加我Q806350554
